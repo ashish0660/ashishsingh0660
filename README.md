@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ashishsingh0660
-- 👀 I’m interested in software development & web app
-- 🌱 I’m currently learning c++ & react js.
-- 💞️ I’m looking to full time job.
+- 🧑‍💻I am working on capgemini as Software analyst 
 - 📫 How to reach me 7079565328 whatsapp me.
 -  email:- ashishsinghkc@gmail.com
 <!---
