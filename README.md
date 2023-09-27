@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashishsingh0660
-- 🧑‍💻I am working on capgemini as Software analyst 
+- 🧑‍💻I am working on Capgemini as a Senior Software analyst 
 - 📫 How to reach me 7079565328 whatsapp me.
 -  email:- ashishsinghkc@gmail.com
 <!---
